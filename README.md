@@ -1,2 +1,2 @@
 # cloudflare
-repo for cloudflare pages
+repo for The Odin Project hosted on cloudflare pages
